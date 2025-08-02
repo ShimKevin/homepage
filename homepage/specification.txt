@@ -1,0 +1,26 @@
+HTML Tags Used:
+1. <html>
+2. <head>
+3. <body>
+4. <header>
+5. <nav>
+6. <ul>
+7. <li>
+8. <a>
+9. <section>
+10. <footer>
+
+CSS Properties Used:
+1. font-family
+2. font-size
+3. color
+4. margin-top
+5. position
+
+JavaScript Usage:
+I used JavaScript to add an interactive alert that pops up when the user clicks a button on the homepage.
+
+Bootstrap Features Used:
+- Navigation bar (using the <nav> and <ul> tags with Bootstrap classes).
+- Buttons styled using Bootstrap’s `.btn` class.
+- Responsive design provided by Bootstrap's grid system and utility classes.
